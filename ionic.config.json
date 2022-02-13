@@ -1,0 +1,10 @@
+{
+  "defaultProject": "angular.io-example",
+  "projects": {
+    "angular.io-example": {
+      "name": "angular.io-example",
+      "integrations": {},
+      "type": "angular"
+    }
+  }
+}

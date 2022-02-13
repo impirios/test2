@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.mytestApplication",
+	"appName": "Hot",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

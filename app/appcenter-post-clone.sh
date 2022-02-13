@@ -15,7 +15,7 @@ nvm install "$NODE_VERSION"
 nvm alias node10 "$NODE_VERSION"
 
 # go to root of project
-cd ../
+cd ../..
 
 # install dependencies
 npm i
